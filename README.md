@@ -1,5 +1,5 @@
 # C++ learning
-I created this github repositry to doucment my jouenry of learning C++, this might encourge me to keep learning on the daily basis properly.
+I created this github repository to document  my journey of learning C++, this might encourage me to keep learning on the daily basis properly.
 
 ## Progress
 ## Day 1 (july 17, 2026)
