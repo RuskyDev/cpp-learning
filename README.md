@@ -11,3 +11,13 @@ On Day 1 I learned the following:
 - how to take input from keyboard.
 - variables.
 - and basic data type knowledge
+
+## Day 2 (July 18, 2026)
+
+Today I learned:
+- Arithmetic operators (`+`, `-`, `*`, `/`, `%`)
+- Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+- `if` statements
+- `if...else` statements
+
+I also completed several challenges, including a math calculator and an age verifier.
