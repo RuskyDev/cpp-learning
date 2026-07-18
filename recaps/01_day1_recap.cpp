@@ -32,7 +32,7 @@ int main() {
     std::cout << "Do you like C++?" << std::endl;
     std::cin >> likes_cpp;
 
-    std::cout << std::endl;
+    std::cout << std::endl
 
     std::cout << "Hello " << name << "!" << std::endl;
     std::cout << "You are " << age << " years old." << std::endl;
