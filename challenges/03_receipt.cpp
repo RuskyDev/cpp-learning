@@ -27,7 +27,7 @@ int main() {
     std::cout << "Customer: " << customer_name << std::endl << std::endl;
     std::cout << "Burger Price: " << burger_price << std::endl;
     std::cout << "Fries Price: " << fries_price << std::endl;
-    std::cout<< "Drink Price: " << drink_price << std::endl << std::endl;
+    std::cout << "Drink Price: " << drink_price << std::endl << std::endl;
 
     std::cout << "Total: " << burger_price + fries_price + drink_price << std::endl << std::endl;
     std::cout << "Thank you!" << std::endl << std::endl;
