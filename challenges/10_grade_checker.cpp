@@ -28,7 +28,7 @@ int main() {
         std::cout << "Grade: D\n";
         std::cout << "You passed, but there's room for improvement.\n\n";
     }
-    else if (score < 60) {
+    else {
         std::cout << "Grade: F\n";
         std::cout << "Keep practicing!\n\n";
     }
