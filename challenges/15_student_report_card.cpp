@@ -38,42 +38,30 @@ int main() {
     int total_marks = math_marks + english_marks + science_marks;
     int average_marks = total_marks / 3;
 
-    if (average_marks >= 90) {
-        std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
-        std::cout << "Average: " << average_marks << "\n\n";
-        
+    std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
+    std::cout << "Average: " << average_marks << "\n\n";
+
+    if (average_marks >= 90) {        
         std::cout << "Grade: A\n\n";
 
         std::cout << "Outstanding work!\n\n";
     }
     else if (average_marks >= 80) {
-        std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
-        std::cout << "Average: " << average_marks << "\n\n";
-        
         std::cout << "Grade: B\n\n";
 
         std::cout << "Great job!\n\n";
     }
     else if (average_marks >= 70) {
-        std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
-        std::cout << "Average: " << average_marks << "\n\n";
-        
         std::cout << "Grade: C\n\n";
 
         std::cout << "Good effort.\n\n";
     }
     else if (average_marks >= 60) {
-        std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
-        std::cout << "Average: " << average_marks << "\n\n";
-        
         std::cout << "Grade: D\n\n";
 
         std::cout << "You passed.\n\n";
     }
     else {
-        std::cout << "Total: " << total_marks << "/" << maximum_marks << "\n";
-        std::cout << "Average: " << average_marks << "\n\n";
-        
         std::cout << "Grade: F\n\n";
 
         std::cout << "Keep practicing.\n\n"; 
