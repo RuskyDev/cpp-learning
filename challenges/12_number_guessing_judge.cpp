@@ -16,7 +16,7 @@ int main() {
     if (input == correctNumber) {
         std::cout << "Correct!\n\n";
     }
-    else if (input > 50) {
+    else if (input > correctNumber) {
         std::cout << "Too High.\n\n";
     }
     else {
