@@ -43,27 +43,22 @@ int main() {
 
     if (average_marks >= 90) {        
         std::cout << "Grade: A\n\n";
-
         std::cout << "Outstanding work!\n\n";
     }
     else if (average_marks >= 80) {
         std::cout << "Grade: B\n\n";
-
         std::cout << "Great job!\n\n";
     }
     else if (average_marks >= 70) {
         std::cout << "Grade: C\n\n";
-
         std::cout << "Good effort.\n\n";
     }
     else if (average_marks >= 60) {
         std::cout << "Grade: D\n\n";
-
         std::cout << "You passed.\n\n";
     }
     else {
         std::cout << "Grade: F\n\n";
-
         std::cout << "Keep practicing.\n\n"; 
     }
     std::cout << "==========================\n";
