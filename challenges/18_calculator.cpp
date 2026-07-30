@@ -60,6 +60,9 @@ int main() {
 
         std::cout << "Answer: " << first_number * second_number << "\n\n";
     } else if (main_menu_choice == 4) {
+        double first_number;
+        double second_number;
+
         std::cout << "Enter first number: ";
         std::cin >> first_number;
         std::cout << "\n";
