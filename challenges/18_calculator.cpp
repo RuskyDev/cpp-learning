@@ -70,7 +70,11 @@ int main() {
             
         std::cout << "==========================\n\n";
 
-        std::cout << "Answer: " << first_number / second_number << "\n\n";
+        if (second_number == 0) {
+            std::cout << "Division by zero is not allowed.\n\n";
+        } else {
+            std::cout << "Answer: " << first_number / second_number << "\n\n";
+        }
     } else if (main_menu_choice == 5) {
         std::cout << "Thank you for using Calculator.\n";
         break;
