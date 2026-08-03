@@ -40,3 +40,13 @@ I created this github repository to document my journey of learning C++.
 * [x] Arguments
 * [x] `void` functions
 * [x] Returning values with `return`
+
+## Next Topics
+
+* [ ] Arrays
+* [ ] switch
+* [ ] do...while
+* [ ] Strings
+* [ ] File I/O
+* [ ] Classes
+* [ ] Objects
