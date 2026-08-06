@@ -9,6 +9,9 @@ int main() {
 
     for (int i = 1; i <= 10; i++) {
         std::cout << number << " x " << i << " = " << i * number << "\n";
+
+        // Each iteration should look like
+        // a x b = c
     }
     std::cout << "\n";
 }
